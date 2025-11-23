@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ffb500;fill-opacity:1;fill-rule:evenodd;stroke:#1bb5dd;stroke-width:0.31208;stroke-opacity:0.298039"
+       id="rect26"
+       width="63.213203"
+       height="47.910435"
+       x="20.003052"
+       y="6.3962936"
+       ry="0.35577056" />
+    <path
+       id="path77"
+       style="display:inline;fill:#461aa0;fill-opacity:1;stroke-width:1.59563;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 49.826631,9.879244 c -0.340059,-4.13e-4 -0.619062,0.511013 -0.625891,1.151045 l -0.03685,3.442393 c -0.0067,0.639996 0.261096,1.156426 0.601166,1.158496 l 1.267331,0.0073 -0.01014,1.048691 c -4.765625,0.08301 -9.438379,1.363394 -13.593393,3.72539 -8.905884,5.062929 -14.465318,14.517 -14.584118,24.801003 l 27.868846,0.250258 -0.0067,0.658113 c -0.0034,0.384697 0.09071,0.725157 0.241398,0.935818 L 23.685823,46.892224 c -0.34007,-4.14e-4 -0.619084,0.511025 -0.625946,1.151093 l -0.01307,1.23047 c -0.0067,0.640068 0.261107,1.156438 0.601132,1.158496 l 55.903134,0.33951 c 0.340059,4.5e-4 0.619061,-0.510975 0.625924,-1.151044 l 0.01307,-1.23047 c 0.0067,-0.640068 -0.261106,-1.156439 -0.601131,-1.158496 L 52.443637,47.066929 c 0.155008,-0.208957 0.257152,-0.548089 0.261423,-0.932749 l 0.0067,-0.653182 27.319743,0.243269 C 80.150117,35.439971 74.80998,25.88815 66.022377,20.667039 62.069003,18.318669 57.608978,16.965743 53.020214,16.722875 l 0.01307,-1.072251 1.267343,0.0073 c 0.340047,4.51e-4 0.622476,-0.830991 0.625924,-1.150995 0.0034,-0.319906 0.03685,-3.442406 0.03685,-3.442406 0.0067,-0.64002 -0.261095,-1.156426 -0.601132,-1.158484 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.7303px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffb500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.722437;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="27.853537"
+       y="41.67947"
+       id="text96-5-8"
+       transform="scale(1.0180254,0.98229377)"><tspan
+         id="tspan96-9-4"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.7303px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffb500;fill-opacity:1;stroke:none;stroke-width:0.722438;stroke-opacity:1"
+         x="27.853537"
+         y="41.67947">Shreg</tspan></text>
+    <rect
+       style="opacity:1;fill:#461aa0;fill-opacity:1;fill-rule:evenodd;stroke:#1bb5dd;stroke-width:0.31208;stroke-opacity:0.298039"
+       id="rect26-5"
+       width="63.213203"
+       height="47.910435"
+       x="19.433876"
+       y="57.052464"
+       ry="0.35577056" />
+    <path
+       id="path77-3"
+       style="display:inline;fill:#ffb500;fill-opacity:1;stroke-width:1.59563;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 49.257458,60.535414 c -0.340059,-4.13e-4 -0.619062,0.511013 -0.625891,1.151045 l -0.03685,3.442392 c -0.0067,0.639996 0.261096,1.156426 0.601166,1.158496 l 1.267331,0.0073 -0.01014,1.048691 c -4.765625,0.08301 -9.438379,1.363394 -13.593393,3.72539 -8.905884,5.062929 -14.465318,14.517 -14.584118,24.801002 l 27.868846,0.25026 -0.0067,0.65811 c -0.0034,0.3847 0.09071,0.72516 0.241398,0.93582 L 23.11665,97.54839 c -0.34007,-4.1e-4 -0.619084,0.51103 -0.625946,1.1511 l -0.01307,1.230468 c -0.0067,0.640062 0.261107,1.156432 0.601132,1.158492 l 55.903134,0.33951 c 0.340059,4.5e-4 0.619061,-0.51097 0.625924,-1.15104 l 0.01307,-1.230472 C 79.627594,98.40638 79.359788,97.89001 79.019763,97.88795 L 51.874464,97.7231 c 0.155008,-0.20896 0.257152,-0.54809 0.261423,-0.93275 l 0.0067,-0.65318 27.319743,0.24327 C 79.580944,86.09614 74.240807,76.544319 65.453204,71.323208 61.49983,68.974838 57.039805,67.621912 52.451041,67.379044 l 0.01307,-1.072251 1.267343,0.0073 c 0.340047,4.51e-4 0.622476,-0.830991 0.625924,-1.150995 0.0034,-0.319906 0.03685,-3.442405 0.03685,-3.442405 0.0067,-0.64002 -0.261095,-1.156426 -0.601132,-1.158484 z" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#1bb5dd;stroke-width:0.31208;stroke-opacity:0.298039"
+       id="rect26-5-4"
+       width="63.213203"
+       height="47.910435"
+       x="19.519224"
+       y="107.5303"
+       ry="0.35577056" />
+    <path
+       id="path77-3-9"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.59563;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 49.342804,111.01326 c -0.340059,-4.2e-4 -0.619062,0.51101 -0.625891,1.15104 l -0.03685,3.44239 c -0.0067,0.64 0.261096,1.15643 0.601166,1.1585 l 1.267331,0.007 -0.01014,1.04869 c -4.765625,0.083 -9.438379,1.36339 -13.593393,3.72539 -8.905884,5.06293 -14.465318,14.517 -14.584118,24.801 l 27.868846,0.25026 -0.0067,0.65811 c -0.0034,0.3847 0.09071,0.72516 0.241398,0.93582 l -27.262457,-0.16553 c -0.34007,-4.1e-4 -0.619084,0.51103 -0.625946,1.1511 l -0.01307,1.23047 c -0.0067,0.64006 0.261107,1.15643 0.601132,1.15849 l 55.903133,0.33951 c 0.34006,4.5e-4 0.61906,-0.51097 0.62592,-1.15104 l 0.0131,-1.23047 c 0.007,-0.64007 -0.2611,-1.15644 -0.60113,-1.1585 L 51.95984,148.20094 c 0.155008,-0.20896 0.257152,-0.54809 0.261423,-0.93275 l 0.0067,-0.65318 27.319742,0.24327 c 0.11862,-10.2843 -5.22152,-19.83612 -14.009125,-25.05723 -3.953374,-2.34837 -8.413399,-3.7013 -13.002163,-3.94416 l 0.01307,-1.07226 1.267343,0.007 c 0.340047,4.6e-4 0.622476,-0.83099 0.625924,-1.15099 0.0034,-0.31991 0.03685,-3.44241 0.03685,-3.44241 0.0067,-0.64002 -0.261095,-1.15642 -0.601132,-1.15848 z" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.31208;stroke-opacity:1"
+       id="rect26-1"
+       width="63.213203"
+       height="47.910435"
+       x="19.94755"
+       y="157.66719"
+       ry="0.35577056" />
+    <path
+       id="path77-4"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke-width:1.59563;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 49.771131,161.15015 c -0.34006,-4.1e-4 -0.61906,0.51101 -0.62589,1.15105 l -0.0369,3.44239 c -0.007,0.64 0.26109,1.15643 0.60116,1.1585 l 1.26734,0.007 -0.0101,1.04869 c -4.76563,0.083 -9.43838,1.36339 -13.5934,3.72539 -8.905881,5.06293 -14.465315,14.517 -14.584115,24.801 l 27.868845,0.25026 -0.007,0.65811 c -0.003,0.3847 0.0907,0.72516 0.2414,0.93582 l -27.262148,-0.16523 c -0.34007,-4.1e-4 -0.619084,0.51103 -0.625946,1.15109 l -0.01307,1.23047 c -0.0067,0.64007 0.261107,1.15644 0.601132,1.1585 l 55.903132,0.33951 c 0.34006,4.5e-4 0.61906,-0.51097 0.62593,-1.15104 l 0.0131,-1.23047 c 0.007,-0.64007 -0.26111,-1.15644 -0.60114,-1.1585 l -27.14529,-0.16485 c 0.155,-0.20896 0.25715,-0.54809 0.26142,-0.93275 l 0.007,-0.65318 27.31974,0.24326 c 0.11862,-10.28429 -5.22152,-19.83611 -14.00912,-25.05722 -3.95338,-2.34837 -8.4134,-3.7013 -13.00217,-3.94417 l 0.0131,-1.07225 1.26735,0.007 c 0.34004,4.5e-4 0.62247,-0.83099 0.62592,-1.15099 0.003,-0.31991 0.0369,-3.44241 0.0369,-3.44241 0.007,-0.64002 -0.2611,-1.15643 -0.60113,-1.15848 z" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.31208;stroke-opacity:0.298039"
+       id="rect26-1-7"
+       width="63.213203"
+       height="47.910435"
+       x="206.22066"
+       y="78.367294"
+       ry="0.35577056" />
+    <path
+       id="path77-4-2"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke-width:1.59563;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 236.04424,81.850258 c -0.34006,-4.1e-4 -0.61906,0.51101 -0.62589,1.15105 l -0.0369,3.44239 c -0.007,0.64 0.26109,1.15643 0.60116,1.1585 l 1.26734,0.007 -0.0101,1.04869 c -4.76563,0.083 -9.43838,1.36339 -13.5934,3.72539 -8.90588,5.06293 -14.46531,14.517002 -14.58411,24.801002 l 27.86884,0.25026 -0.007,0.65811 c -0.003,0.3847 0.0907,0.72516 0.2414,0.93582 l -27.26215,-0.16523 c -0.34007,-4.1e-4 -0.61908,0.51103 -0.62594,1.15109 l -0.0131,1.23047 c -0.007,0.64007 0.2611,1.15644 0.60113,1.1585 l 55.90313,0.33951 c 0.34006,4.5e-4 0.61906,-0.51097 0.62593,-1.15104 l 0.0131,-1.23047 c 0.007,-0.64007 -0.26111,-1.15644 -0.60114,-1.1585 l -27.14529,-0.16485 c 0.155,-0.20896 0.25715,-0.54809 0.26142,-0.93275 l 0.007,-0.65318 27.31974,0.24326 c 0.11862,-10.28429 -5.22152,-19.836112 -14.00912,-25.057222 -3.95338,-2.34837 -8.4134,-3.7013 -13.00217,-3.94417 l 0.0131,-1.07225 1.26735,0.007 c 0.34004,4.5e-4 0.62247,-0.83099 0.62592,-1.15099 0.003,-0.31991 0.0369,-3.44241 0.0369,-3.44241 0.007,-0.64002 -0.2611,-1.15643 -0.60113,-1.15848 z" />
+    <rect
+       style="opacity:1;fill:#461aa0;fill-opacity:1;fill-rule:evenodd;stroke:#1bb5dd;stroke-width:0.31208;stroke-opacity:0.298039"
+       id="rect26-3"
+       width="63.213203"
+       height="47.910435"
+       x="206.58617"
+       y="21.439886"
+       ry="0.35577056" />
+    <path
+       id="path77-0"
+       style="display:inline;fill:#ffb500;fill-opacity:1;stroke-width:1.59563;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 236.40974,24.922836 c -0.34006,-4.13e-4 -0.61906,0.511013 -0.62589,1.151045 l -0.0368,3.442393 c -0.007,0.639996 0.2611,1.156426 0.60117,1.158496 l 1.26733,0.0073 -0.0101,1.048691 c -4.76563,0.08301 -9.43838,1.363394 -13.5934,3.72539 -8.90588,5.062929 -14.46531,14.517 -14.58411,24.801003 l 27.86884,0.250258 -0.007,0.658113 c -0.003,0.384697 0.0907,0.725157 0.2414,0.935818 l -27.26225,-0.165527 c -0.34007,-4.14e-4 -0.61908,0.511025 -0.62594,1.151093 l -0.0131,1.23047 c -0.007,0.640068 0.2611,1.156438 0.60113,1.158496 l 55.90313,0.33951 c 0.34006,4.5e-4 0.61906,-0.510975 0.62593,-1.151044 l 0.0131,-1.23047 c 0.007,-0.640068 -0.26111,-1.156439 -0.60113,-1.158496 l -27.1453,-0.164854 c 0.155,-0.208957 0.25715,-0.548089 0.26142,-0.932749 l 0.007,-0.653182 27.31974,0.243269 c 0.11862,-10.284296 -5.22152,-19.836117 -14.00912,-25.057228 -3.95338,-2.34837 -8.4134,-3.701296 -13.00217,-3.944164 l 0.0131,-1.072251 1.26735,0.0073 c 0.34004,4.51e-4 0.62247,-0.830991 0.62592,-1.150995 0.003,-0.319906 0.0369,-3.442406 0.0369,-3.442406 0.007,-0.64002 -0.26109,-1.156426 -0.60113,-1.158484 z" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.7303px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#461aa0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.722437;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="116.04739"
+       y="61.492271"
+       id="text96-5"
+       transform="scale(1.0180254,0.98229377)"><tspan
+         id="tspan96-9"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.7303px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#461aa0;fill-opacity:1;stroke:none;stroke-width:0.722438;stroke-opacity:1"
+         x="116.04739"
+         y="61.492271">Shreg</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.7303px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.722437;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="116.61451"
+       y="107.52785"
+       id="text96-5-7"
+       transform="scale(1.0180254,0.98229377)"><tspan
+         id="tspan96-9-0"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.7303px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.722438;stroke-opacity:1"
+         x="116.61451"
+         y="107.52785">Shreg</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.7303px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.722437;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="116.86076"
+       y="157.54762"
+       id="text96-5-7-0"
+       transform="scale(1.0180254,0.98229377)"><tspan
+         id="tspan96-9-0-3"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.7303px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.722438;stroke-opacity:1"
+         x="116.86076"
+         y="157.54762">Shreg</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.7303px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#461aa0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.722437;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="26.974371"
+       y="93.542725"
+       id="text96-5-5"
+       transform="scale(1.0180254,0.98229377)"><tspan
+         id="tspan96-9-8"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.7303px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#461aa0;fill-opacity:1;stroke:none;stroke-width:0.722438;stroke-opacity:1"
+         x="26.974371"
+         y="93.542725">Shreg</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.7303px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.722437;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="27.365843"
+       y="144.97243"
+       id="text96-5-7-0-8"
+       transform="scale(1.0180254,0.98229377)"><tspan
+         id="tspan96-9-0-3-8"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.7303px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.722438;stroke-opacity:1"
+         x="27.365843"
+         y="144.97243">Shreg</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.7303px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.722437;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       x="27.749662"
+       y="195.92247"
+       id="text96-5-7-0-89"
+       transform="scale(1.0180254,0.98229377)"><tspan
+         id="tspan96-9-0-3-5"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.7303px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.722438;stroke-opacity:1"
+         x="27.749662"
+         y="195.92247">Shreg</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#1bb5dd;stroke-width:0.31208;stroke-opacity:0.298039"
+       id="rect26-5-4-3"
+       width="63.213203"
+       height="47.910435"
+       x="206.35384"
+       y="137.01462"
+       ry="0.35577056" />
+    <path
+       id="path77-3-9-0"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.59563;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 236.17741,140.49759 c -0.34006,-4.2e-4 -0.61906,0.51101 -0.62589,1.15104 l -0.0369,3.44239 c -0.007,0.64 0.2611,1.15643 0.60117,1.1585 l 1.26733,0.007 -0.0101,1.04869 c -4.76563,0.083 -9.43838,1.36339 -13.59339,3.72539 -8.90589,5.06293 -14.46532,14.517 -14.58412,24.801 l 27.86884,0.25026 -0.007,0.65811 c -0.003,0.3847 0.0907,0.72516 0.2414,0.93582 l -27.26245,-0.16553 c -0.34007,-4.1e-4 -0.61909,0.51103 -0.62595,1.1511 l -0.0131,1.23047 c -0.007,0.64006 0.26111,1.15643 0.60113,1.15849 l 55.90313,0.33951 c 0.34006,4.5e-4 0.61906,-0.51097 0.62592,-1.15104 l 0.0131,-1.23047 c 0.007,-0.64007 -0.2611,-1.15644 -0.60113,-1.1585 l -27.14529,-0.16455 c 0.15501,-0.20896 0.25715,-0.54809 0.26142,-0.93275 l 0.007,-0.65318 27.31975,0.24327 c 0.11861,-10.2843 -5.22153,-19.83612 -14.00913,-25.05723 -3.95337,-2.34837 -8.4134,-3.7013 -13.00216,-3.94416 l 0.0131,-1.07226 1.26734,0.007 c 0.34005,4.6e-4 0.62248,-0.83099 0.62592,-1.15099 0.003,-0.31991 0.0368,-3.44241 0.0368,-3.44241 0.007,-0.64002 -0.26109,-1.15642 -0.60113,-1.15848 z" />
+  </g>
+</svg>
