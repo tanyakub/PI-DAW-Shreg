@@ -9,7 +9,7 @@
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    sodipodi:docname="LOGOSHREG.svg"
-   inkscape:export-filename="LOGO_SHREG_ACTUALIZADO\LOGO_SHREG_ACTUALIZADO\LogosActualizados.svg"
+   inkscape:export-filename="LOGO_SHREG\vectorial\Logos.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -60,12 +60,12 @@
        x="19.433876"
        y="57.052464"
        ry="0.35577056"
-       inkscape:export-filename="LOGO_SHREG_ACTUALIZADO\LOGO_SHREG_ACTUALIZADO\FONDO_OSCURO.png"
+       inkscape:export-filename="LOGO_SHREG_ACTUALIZADO\FONDO_OSCURO.svg"
        inkscape:export-xdpi="418.21957"
        inkscape:export-ydpi="418.21957" />
     <path
        id="path77-3"
-       style="display:inline;fill:#ffb500;fill-opacity:1;stroke-width:1.59563;stroke-dasharray:none;paint-order:fill markers stroke"
+       style="display:inline;fill:#17c0e2;fill-opacity:1;stroke-width:1.59563;stroke-dasharray:none;paint-order:fill markers stroke"
        d="m 49.257458,60.535414 c -0.340059,-4.13e-4 -0.619062,0.511013 -0.625891,1.151045 l -0.03685,3.442392 c -0.0067,0.639996 0.261096,1.156426 0.601166,1.158496 l 1.267331,0.0073 -0.01014,1.048691 c -4.765625,0.08301 -9.438379,1.363394 -13.593393,3.72539 -8.905884,5.062929 -14.465318,14.517 -14.584118,24.801002 l 27.868846,0.25026 -0.0067,0.65811 c -0.0034,0.3847 0.09071,0.72516 0.241398,0.93582 L 23.11665,97.54839 c -0.34007,-4.1e-4 -0.619084,0.51103 -0.625946,1.1511 l -0.01307,1.230468 c -0.0067,0.640062 0.261107,1.156432 0.601132,1.158492 l 55.903134,0.33951 c 0.340059,4.5e-4 0.619061,-0.51097 0.625924,-1.15104 l 0.01307,-1.230472 C 79.627594,98.40638 79.359788,97.89001 79.019763,97.88795 L 51.874464,97.7231 c 0.155008,-0.20896 0.257152,-0.54809 0.261423,-0.93275 l 0.0067,-0.65318 27.319743,0.24327 C 79.580944,86.09614 74.240807,76.544319 65.453204,71.323208 61.49983,68.974838 57.039805,67.621912 52.451041,67.379044 l 0.01307,-1.072251 1.267343,0.0073 c 0.340047,4.51e-4 0.622476,-0.830991 0.625924,-1.150995 0.0034,-0.319906 0.03685,-3.442405 0.03685,-3.442405 0.0067,-0.64002 -0.261095,-1.156426 -0.601132,-1.158484 z"
        inkscape:label="bell"
        sodipodi:nodetypes="csccccccccccccccccccccccccczccc" />

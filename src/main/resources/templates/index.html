@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Shreg Login</title>
+    <link rel="stylesheet" href="css/styles.css">
+    
+</head>
+<body class="loginScreen">
+
+    <div class="login">
+<h1>Log in</h1>
+
+<form action="/validarLogin" method="post">
+
+    <label>Username:</label><br>
+    <input type="text" name="usuario" placeholder="Username">
+
+    <br><br>
+
+    <label>Password:</label><br>
+    <input type="password" name="password" placeholder="Password">
+
+    <br><br>
+
+    <button type="submit">Log in</button>
+
+</form>
+
+<p th:if="${error}" style="color:rgb(147, 0, 0);">
+    The username or password is incorrect.
+</p>
+    </div>
+
+    <div class="fotoLogin"><br><img src="img/LOGO_TEXTO_COLOR.svg"> </div>
+</body>
+</html>

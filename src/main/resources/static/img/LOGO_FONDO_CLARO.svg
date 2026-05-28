@@ -9,7 +9,7 @@
    id="svg1"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    sodipodi:docname="LOGOSHREG.svg"
-   inkscape:export-filename="LOGO_SHREG_ACTUALIZADO\LOGO_SHREG_ACTUALIZADO\LogosActualizados.svg"
+   inkscape:export-filename="LOGO_SHREG\vectorial\Logos.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -53,14 +53,14 @@
      id="layer1"
      transform="translate(-19.847014,-6.2402537)">
     <rect
-       style="opacity:1;fill:#ffb500;fill-opacity:1;fill-rule:evenodd;stroke:#1bb5dd;stroke-width:0.31208;stroke-opacity:0.298039"
+       style="opacity:1;fill:#17c0e2;fill-opacity:1;fill-rule:evenodd;stroke:#1bb5dd;stroke-width:0.31208;stroke-opacity:0.298039"
        id="rect26"
        width="63.213203"
        height="47.910435"
        x="20.003052"
        y="6.3962936"
        ry="0.35577056"
-       inkscape:export-filename="LOGO_SHREG_ACTUALIZADO\LOGO_SHREG_ACTUALIZADO\FONDO_CLARO.png"
+       inkscape:export-filename="LOGO_SHREG_ACTUALIZADO\LOGO_SHREG_ACTUALIZADO\LOGO_SHREG_ACTUALIZADO\FONDO_CLARO.svg"
        inkscape:export-xdpi="418.22"
        inkscape:export-ydpi="418.22" />
     <path
@@ -71,7 +71,7 @@
        sodipodi:nodetypes="csccccccccccccccccccccccccczccc" />
     <text
        xml:space="preserve"
-       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.7303px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffb500;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.722437;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.7303px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#17c0e2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.722437;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
        x="27.853537"
        y="41.67947"
        id="text96-5-8"
@@ -80,7 +80,7 @@
        inkscape:export-xdpi="418.22"
        inkscape:export-ydpi="418.22"><tspan
          id="tspan96-9-4"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.7303px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffb500;fill-opacity:1;stroke:none;stroke-width:0.722438;stroke-opacity:1"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.7303px;font-family:Cambria;-inkscape-font-specification:'Cambria, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#17c0e2;fill-opacity:1;stroke:none;stroke-width:0.722438;stroke-opacity:1"
          x="27.853537"
          y="41.67947"
          sodipodi:role="line">Shreg</tspan></text>

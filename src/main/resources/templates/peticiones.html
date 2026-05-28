@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Lista de peticiones</title>
+    <link rel="stylesheet" href="/css/styles.css">
+
+</head>
+
+<body style="align-content: center;">
+
+    <h1>Peticiones recibidas</h1>
+
+    <table>
+        <tr>
+            <th>Id</th>
+            <th>Habitación</th>
+            <th>Tipo</th>
+            <th>Estado</th>
+            <th>Fecha</th>
+            <th>Accion</th>
+        </tr>
+
+        <tr th:each="peticion : ${listaPeticiones}">
+            <td th:text="${peticion.id}"></td>
+            <td th:text="${peticion.habitacion}"></td>
+            <td th:text="${peticion.tipo}"></td>
+            <td th:text="${peticion.estado}" th:style="
+        ${peticion.estado == 'Pendiente'} ?
+        'color:red; font-weight:bold;' :
+
+        (${peticion.estado == 'En proceso'} ?
+        'color:orange; font-weight:bold;')">
+            </td>
+            <td th:text="${#temporals.format(peticion.fechaCreacion, 'dd/MM/yyyy HH:mm')}"></td>
+            <td>
+
+                <a class="enProceso" th:if="${peticion.estado == 'Pendiente'}"
+                    th:href="@{/enProceso/{id}(id=${peticion.id})}">
+                    En proceso
+                </a>
+
+                <a class="completar" th:if="${peticion.estado == 'En proceso'}"
+                    th:href="@{/completar/{id}(id=${peticion.id})}">
+                    Completar
+                </a>
+
+            </td>
+
+
+        </tr>
+    </table>
+
+    <br>
+
+    <a href="/login"><button>Volver al inicio</button></a>
+
+</body>
+
+</html>

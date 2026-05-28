@@ -1,0 +1,138 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 40px;
+    background-color: aliceblue;
+    color: #17c0e2ff;
+}
+
+h1 {
+    color: #461aa0ff;
+}
+
+h2 {
+    color: #461aa0ff;
+}
+
+.logo img {
+    width: 100px;
+    height: auto;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #17c0e2ff;
+    color: #461aa0ff;
+    border-radius: 20px;
+}
+
+button:hover {
+    background-color: #461aa0ff;
+    color: #17c0e2ff;
+}
+
+.loginScreen {
+    display: grid;
+    grid-template-columns: 20% auto;
+    margin: 0;
+    height: 100vh;
+}
+
+.login {
+    background-color: aliceblue;
+
+}
+
+.fotoLogin {
+    background-image: url("../img/campanilla.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.petitionScreen {
+    display:flex;
+
+    justify-content:center;
+
+    width:100%;
+    margin: 0;
+    color: #461aa0ff;
+    justify-content: center;
+}
+
+.peticionOpciones {
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 98%;
+    column-gap: 20px;
+    justify-items: center;
+    align-items: center;
+}
+
+.buttonScreen {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    justify-items: center;
+    align-items: center;
+    gap: 5px;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgba(71, 26, 160, 0.304);
+}
+
+.buttonPetition {
+    padding: 5px;
+    cursor: pointer;
+    background-color: #461aa0ff;
+    color: #17c0e2ff;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    border-radius: 10px;
+    height: 100px;
+    width: 150px;
+    border: none;
+}
+
+.buttonPetition:hover {
+    background-color: #17c0e2ff;
+    color: #461aa0ff;
+}
+
+table, th, td{
+    border-collapse: collapse;
+    margin: auto;
+    width: 90%;
+    border: 1px solid #461aa0ff;
+    table-layout: fixed;
+}
+
+th {
+    background-color: #461aa0ff;
+}
+
+td {
+    color: #461aa0ff;
+}
+
+th, td {
+    width:16,66%;
+}
+
+tr:nth-child(even) {
+  background-color: rgba(71, 26, 160, 0.242);
+}
+
+.enProceso {
+    background-color: rgb(205, 190, 50);
+    text-decoration: none;
+    color: #461aa0ff;
+}
+
+.completar {
+    background-color: rgb(120, 205, 50);
+    text-decoration: none;
+    color: #461aa0ff;
+}

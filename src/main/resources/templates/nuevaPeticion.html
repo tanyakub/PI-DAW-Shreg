@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>New petition</title>
+    <link rel="stylesheet" href="/css/styles.css">
+
+</head>
+
+<style>
+    
+    body {
+        margin:0;
+        min-height:95vh;
+        background-image:
+            linear-gradient(rgba(245, 245, 245, 0.433),
+                rgba(245, 245, 245, 0.85)), url("/img/campanilla.png");
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        color: #461aa0ff;
+    }
+</style>
+
+<body>
+    <h1>New petition</h1>
+
+    <label>Your room is </label>
+    nº: <strong th:text="${habitacion}"></strong>
+
+    <h2>How can we help you?</h2>
+
+    <div class="petitionScreen">
+        <div> </div><!--margen1-->
+
+        <div class="peticionOpciones">
+
+            <div>Room Essentials 
+
+                <div class="buttonScreen">
+                    <div>
+
+                        <!-- TOALLA -->
+                        <form action="/peticiones/guardar" method="post">
+
+                            <input type="hidden" name="categoria" value="Limpieza">
+
+                            <input type="hidden" name="tipo" value="Toalla">
+
+                            <input type="hidden" name="habitacion" th:value="${habitacion}">
+
+                            <button type="submit" class="buttonPetition">
+                                <span>TOWEL</span>
+                            </button>
+
+                        </form>
+                    </div>
+                    <div>
+                        <!-- PAPEL -->
+                        <form action="/peticiones/guardar" method="post">
+
+                            <input type="hidden" name="categoria" value="Limpieza">
+
+                            <input type="hidden" name="tipo" value="Papel">
+
+                            <input type="hidden" name="habitacion" th:value="${habitacion}">
+
+                            <button type="submit" class="buttonPetition">
+                                <span>PAPER</span>
+                            </button>
+                        </form>
+                    </div>
+                    <div>
+                        <!-- MANTA -->
+                        <form action="/peticiones/guardar" method="post">
+
+                            <input type="hidden" name="categoria" value="Limpieza">
+
+                            <input type="hidden" name="tipo" value="Manta">
+
+                            <input type="hidden" name="habitacion" th:value="${habitacion}">
+
+                            <button type="submit" class="buttonPetition">
+                                <span>BLANKET</span>
+                            </button>
+                        </form>
+                    </div>
+                    <div>
+                        <!-- ALMOHADA -->
+                        <form action="/peticiones/guardar" method="post">
+
+                            <input type="hidden" name="categoria" value="Limpieza">
+
+                            <input type="hidden" name="tipo" value="Almohada">
+
+                            <input type="hidden" name="habitacion" th:value="${habitacion}">
+
+                            <button type="submit" class="buttonPetition">
+                                <span>PILLOW</span>
+                            </button>
+                        </form>
+                    </div>
+
+                </div>
+            </div>
+
+            <div>Maintenance service
+                <div class="buttonScreen">
+                    <div>
+                        <!-- AC -->
+                        <form action="/peticiones/guardar" method="post">
+
+                            <input type="hidden" name="categoria" value="Mantenimiento">
+
+                            <input type="hidden" name="tipo" value="AC">
+
+                            <input type="hidden" name="habitacion" th:value="${habitacion}">
+
+                            <button type="submit" class="buttonPetition">
+                                <span>A-C</span>
+                            </button>
+
+                        </form>
+                    </div>
+                    <div>
+                        <!-- TV -->
+                        <form action="/peticiones/guardar" method="post">
+
+                            <input type="hidden" name="categoria" value="Mantenimiento">
+
+                            <input type="hidden" name="tipo" value="TV">
+
+                            <input type="hidden" name="habitacion" th:value="${habitacion}">
+
+                            <button type="submit" class="buttonPetition">
+                                <span>TV</span>
+                            </button>
+                        </form>
+                    </div>
+                    <div>
+                        <!-- Wi-Fi -->
+                        <form action="/peticiones/guardar" method="post">
+
+                            <input type="hidden" name="categoria" value="Mantenimiento">
+
+                            <input type="hidden" name="tipo" value="Wi-Fi">
+
+                            <input type="hidden" name="habitacion" th:value="${habitacion}">
+
+                            <button type="submit" class="buttonPetition">
+                                <span>Wi-Fi</span>
+                            </button>
+                        </form>
+                    </div>
+                    <div>
+                        <!-- Caja fuerte -->
+                        <form action="/peticiones/guardar" method="post">
+
+                            <input type="hidden" name="categoria" value="Mantenimiento">
+
+                            <input type="hidden" name="tipo" value="Caja fuerte">
+
+                            <input type="hidden" name="habitacion" th:value="${habitacion}">
+
+                            <button type="submit" class="buttonPetition">
+                                <span>SAFE</span>
+                            </button>
+                        </form>
+                    </div>
+
+                </div>
+            </div>
+
+            <div>Amenities
+                <div class="buttonScreen">
+                    <div>
+                        <!-- CHAMPU -->
+                        <form action="/peticiones/guardar" method="post">
+
+                            <input type="hidden" name="categoria" value="Amenities">
+
+                            <input type="hidden" name="tipo" value="Champú">
+
+                            <input type="hidden" name="habitacion" th:value="${habitacion}">
+
+                            <button type="submit" class="buttonPetition">
+                                <span>SHAMPOO</span>
+                            </button>
+
+                        </form>
+                    </div>
+                    <div>
+                        <!-- GEL -->
+                        <form action="/peticiones/guardar" method="post">
+
+                            <input type="hidden" name="categoria" value="Amenities">
+
+                            <input type="hidden" name="tipo" value="Gel">
+
+                            <input type="hidden" name="habitacion" th:value="${habitacion}">
+
+                            <button type="submit" class="buttonPetition">
+                                <span>GEL</span>
+                            </button>
+                        </form>
+                    </div>
+                    <div>
+                        <!-- ACONDICIONADOR -->
+                        <form action="/peticiones/guardar" method="post">
+
+                            <input type="hidden" name="categoria" value="Amenities">
+
+                            <input type="hidden" name="tipo" value="Acondicionador">
+
+                            <input type="hidden" name="habitacion" th:value="${habitacion}">
+
+                            <button type="submit" class="buttonPetition">
+                                <span>CONDITIONER</span>
+                            </button>
+                        </form>
+                    </div>
+                    <div>
+                        <!-- Cepillo de dientes -->
+                        <form action="/peticiones/guardar" method="post">
+
+                            <input type="hidden" name="categoria" value="Amenities">
+
+                            <input type="hidden" name="tipo" value="Cepillo de dientes">
+
+                            <input type="hidden" name="habitacion" th:value="${habitacion}">
+
+                            <button type="submit" class="buttonPetition">
+                                <span>TOOTHBRUSH</span>
+                            </button>
+                        </form>
+                    </div>
+
+                </div>
+            </div>
+
+            <div>Others
+                <div class="buttonScreen">
+                    <div>
+                        <!-- CHAMPU -->
+                        <form action="/peticiones/guardar" method="post">
+
+                            <input type="hidden" name="categoria" value="Otros">
+
+                            <input type="hidden" name="tipo" value="Agua">
+
+                            <input type="hidden" name="habitacion" th:value="${habitacion}">
+
+                            <button type="submit" class="buttonPetition">
+                                <span>WATER</span>
+                            </button>
+
+                        </form>
+                    </div>
+                    <div>
+                        <!-- HERVIDOR -->
+                        <form action="/peticiones/guardar" method="post">
+
+                            <input type="hidden" name="categoria" value="Otros">
+
+                            <input type="hidden" name="tipo" value="Hervidor">
+
+                            <input type="hidden" name="habitacion" th:value="${habitacion}">
+
+                            <button type="submit" class="buttonPetition">
+                                <span>KETTEL</span>
+                            </button>
+                        </form>
+                    </div>
+                    <div>
+                        <!-- PLANCHA -->
+                        <form action="/peticiones/guardar" method="post">
+
+                            <input type="hidden" name="categoria" value="Otros">
+
+                            <input type="hidden" name="tipo" value="Plancha">
+
+                            <input type="hidden" name="habitacion" th:value="${habitacion}">
+
+                            <button type="submit" class="buttonPetition">
+                                <span>IRON</span>
+                            </button>
+                        </form>
+                    </div>
+                    <div>
+                        <!-- Cubiertos -->
+                        <form action="/peticiones/guardar" method="post">
+
+                            <input type="hidden" name="categoria" value="Otros">
+
+                            <input type="hidden" name="tipo" value="Cubiertos">
+
+                            <input type="hidden" name="habitacion" th:value="${habitacion}">
+
+                            <button type="submit" class="buttonPetition">
+                                <span>CUTLERY</span>
+                            </button>
+                        </form>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+        <div> </div><!--margen2-->
+    </div>
+
+</body>
+
+</html>
