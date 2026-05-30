@@ -1,0 +1,21 @@
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: shreg-mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: shreg
+    volumes:
+      - shreg_mysql_data:/var/lib/mysql
+
+  app:
+    build: .
+    container_name: shreg-app
+    restart: always
+    depends_on:
+      - mysql
+    ports:
+      - "8080:8080"
+
+volumes:
+  shreg_mysql_data:
