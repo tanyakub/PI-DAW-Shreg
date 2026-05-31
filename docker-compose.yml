@@ -7,6 +7,7 @@ services:
       MYSQL_DATABASE: ${MYSQL_DATABASE}
     volumes:
       - shreg_mysql_data:/var/lib/mysql
+    restart: always
 
   app:
     build: .
