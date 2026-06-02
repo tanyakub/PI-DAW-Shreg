@@ -1,10 +1,30 @@
+html {
+    min-height: 100%;
+}
+
 body {
+    min-height: 100vh;
+
+    background-image:
+        linear-gradient(
+            rgba(245, 245, 245, 0.433),
+            rgba(245, 245, 245, 0.85)
+        ),
+        url("/img/campanilla.png");
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    /* La imagen permanece fija */
+    background-attachment: fixed;
     font-family: Arial, sans-serif;
     text-align: center;
     margin-top: 40px;
     background-color: aliceblue;
-    color: #17c0e2ff;
+    color: #461aa0ff;
 }
+
 
 h1 {
     color: #461aa0ff;
@@ -101,6 +121,10 @@ button:hover {
     color: #461aa0ff;
 }
 
+table {
+    border-radius: 10px;
+}
+
 table, th, td{
     border-collapse: collapse;
     margin: auto;
@@ -111,6 +135,7 @@ table, th, td{
 
 th {
     background-color: #461aa0ff;
+    color: #17c0e2ff;
 }
 
 td {
@@ -118,11 +143,16 @@ td {
 }
 
 th, td {
-    width:16,66%;
+    width:16.66%;
+    font-size: 18px;
+    padding: 10px;
 }
 
 tr:nth-child(even) {
   background-color: rgba(71, 26, 160, 0.242);
+}
+
+tr:hover td {background-color: #04686895;
 }
 
 .enProceso {
@@ -135,4 +165,12 @@ tr:nth-child(even) {
     background-color: rgb(120, 205, 50);
     text-decoration: none;
     color: #461aa0ff;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    padding: 15px 0;
+    background: rgba(180, 220, 240, 0.9);
 }
